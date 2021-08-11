@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c4a9a7a1b67002c1c602ffe7493d30b",
+    "revision": "77322588399a203673829c31882ed29b",
     "url": "/ico/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ico/static/css/2.fe62fa80.chunk.css"
   },
   {
-    "revision": "72ad4f6e13699c27452f",
+    "revision": "e61a247e9bca9e10bd0d",
     "url": "/ico/static/css/main.229b26cb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ico/static/js/2.ec7db673.chunk.js"
   },
   {
-    "revision": "72ad4f6e13699c27452f",
-    "url": "/ico/static/js/main.9305ebdc.chunk.js"
+    "revision": "e61a247e9bca9e10bd0d",
+    "url": "/ico/static/js/main.ec00c6d3.chunk.js"
   },
   {
     "revision": "cd96a9420ffca543e871",
